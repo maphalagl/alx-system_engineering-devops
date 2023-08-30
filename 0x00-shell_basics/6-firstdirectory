@@ -1,6 +1,3 @@
 #!/bin/bash
-cd tmp
-mkdir my_first_directory
-cd my_first_directory
-echo "directory"
+cd tmp mkdir my_first_directory cd my_first_directory echo "directory"
 
