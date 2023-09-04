@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Removes c and C" | tr -d 'cC'
